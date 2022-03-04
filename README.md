@@ -3,6 +3,7 @@ Content:
 2. [Setup Environment](./Setup_Environment/README.md)
 3. [More on create-react-app](./Create_React_App/README.md)
 4. [JSX](./JSX/README.md)
+5. [Components](./Components/README.md)
 
 
 Sources:
