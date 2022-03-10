@@ -186,7 +186,7 @@ There are two ways to set up an environment for successful ReactJS application. 
         ```
         create-react-app <react-project-name>
         ```
-- NOTE: or you can use npx (a package running tool), instead of above two commands, which will install the react and create a new project with the name jtp-reactapp.
+- NOTE: or you can use npx (a package running tool), instead of above two commands, which will install the react and create a new project with the name `<react-project-name>`. This command downloads the most recent create-react-app release, run it, and then remove it from the system.
     - run:
         ```
         npx create-react-app <react-project-name>

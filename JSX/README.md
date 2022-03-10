@@ -19,9 +19,9 @@
 
 ## Why JSX?
 - Faster: Optimizations are done while translating code to JavaScript so is faster than regular javascript
-- Instead of separating technologies by putting the markup and logic in different files, React uses components that contian both
+- Instead of separating technologies by putting the markup and logic in different files, React uses components that contain both
 - Type-safe: most of the errors can be found at compilation time
-- makes it easier to create templates.
+- makes it easier to create templates and build UI interfaces
 
 ## JSX Attributes
 - use camelCase
@@ -34,6 +34,7 @@
     ```Javascript
     {/* This is a comment in JSX */}   
     ```
+- We can embed JavaScript statement in JSX between `{ }` but just one statement for every curly bracket block and the statement must return something.
 - NOTE: JSX cannot allow to use if-else statements. Instead of it, you can use conditional (ternary) expressions.
     ```javascript
     import React, { Component } from 'react';  

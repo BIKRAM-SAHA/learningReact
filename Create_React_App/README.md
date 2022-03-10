@@ -10,6 +10,10 @@
 README.md: It provides the documentation to read about React topics.
 
 
+#### Note: 
+- create-react-app is set up in such a way that it allows us to import css and images to use in out js
+
+
 [Previous](../Setup_Environment/README.md)
 <br>
 
