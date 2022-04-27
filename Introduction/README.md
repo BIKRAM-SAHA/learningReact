@@ -118,6 +118,6 @@
 
 [Next](../Setup_Environment/README.md)
 
-<!-- 
 Question1: How react updates the DOM (in detail)?
- -->
+
+https://reactjs.org/docs/reconciliation.html#recursing-on-children
